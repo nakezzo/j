@@ -1,15 +1,15 @@
-TOKEN = "7730193412:AAFe6CD5GqWb0D6TJBMxdc3DFMsGz_MkrvY" # Токен бота
-CHANNEL_ID = -1002190791524 # ID канала со ставками
-ADMINS = [7646320295] # ID админов
-BET_URL = "t.me/send?start=IVn0ttZb2SIu" # Ссылка на счет
-CRYPTOPAY_TOKEN = "286907:AAAbiflxBaT7iHhBilpHkgYvYAZ3C5GX0do" # Тут CryptoPay токен
+TOKEN = "7646173236:AAErOkmU4sPBg1qe9-rsvxto33Z5B_8EJRs" # Токен бота
+CHANNEL_ID = -1002304328485 # ID канала со ставками
+ADMINS = [7024382588] # ID админов
+BET_URL = "https://t.me/send?start=IVUHyST8MJqb" # Ссылка на счет
+CRYPTOPAY_TOKEN = "292406:AADUzPT5ml7dZtF7UBuOnnoi46du2A4UqOm" # Тут CryptoPay токен
 WIN_IMAGE = "win.jpg" # Название файла с картинкой выигрыша
 LOSE_IMAGE = "lose.jpg" # Название файла с картинкой проигрыша
-LOGS_ID =-1002471007722 # ID канала с оплатами
+LOGS_ID = -1002469070319 # ID канала с оплатами
 
-RULES_LINK = "https://t.me/+jjKp555LFMQwMzk6" # Ссылка на канал с правиламиW
-NEWS_LINK = "https://t.me/+XMqQOXlm5s4yYTFi" # Ссылка на новостной канал
-OWNER_LINK = "https://t.me/n1ce_Tag" # Ссылка на владельца/поддержку
-PEREHOD_LINK = "https://t.me/+w9v0r9wB-f82ZmMy" # Ссылка на переходник
-BETS_LINK = "https://t.me/+Wg5jVwo-MB81OGNi" # Ссылка на канал ставок
-CASINO_NAME = "CryptoHub" # Название казино
+RULES_LINK = "https://t.me/+TCxjr8zALuMxYTIy" # Ссылка на канал с правиламиW
+NEWS_LINK = "https://t.me/+Tr9fc18HIfdhOWYy" # Ссылка на новостной канал
+OWNER_LINK = "https://t.me/MARS_Sup" # Ссылка на владельца/поддержку
+PEREHOD_LINK = "https://t.me/+FSdg8euMsjNjMWYy" # Ссылка на переходник
+BETS_LINK = "https://t.me/+3_SpFm1XV5RhNWE6" # Ссылка на канал ставок
+CASINO_NAME = "CasinoMars" # Название казино
